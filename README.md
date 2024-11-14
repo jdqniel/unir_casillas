@@ -1,6 +1,4 @@
-Aquí tienes el README actualizado para crear un entorno virtual con venv antes de instalar las dependencias:
-
-Procesamiento de Archivos Excel - Filtrado y Unificación de Datos
+# Procesamiento de Archivos Excel - Filtrado y Unificación de Datos
 
 Este script procesa archivos de Excel en una carpeta específica, aplicando filtros y transformaciones para depurar y combinar información de filas sin índices, que están fuera de posición. Los archivos procesados se guardan en una nueva carpeta de salida.
 
