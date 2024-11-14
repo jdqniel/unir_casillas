@@ -1,5 +1,3 @@
-Aquí tienes el README actualizado para crear un entorno virtual con `venv` antes de instalar las dependencias:
-
 ---
 
 # Procesamiento de Archivos Excel - Filtrado y Unificación de Datos
