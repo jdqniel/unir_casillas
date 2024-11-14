@@ -73,7 +73,7 @@ pip install -r requirements.txt
 Para ejecutar el script, asegúrate de estar en la misma carpeta donde se encuentra el archivo `script.py` y con el entorno virtual activado. Luego, ejecuta:
 
 ```bash
-python script.py
+python unir_casillas.py
 ```
 
 Esto procesará todos los archivos `.xlsx` en la carpeta `problema3/data/` y guardará los archivos modificados en `problema3/output/`.
