@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ## Ejecución del Script
 
-Para ejecutar el script, asegúrate de estar en la misma carpeta donde se encuentra el archivo `script.py` y con el entorno virtual activado. Luego, ejecuta:
+Para ejecutar el script, asegúrate de estar en la misma carpeta donde se encuentra el archivo `unir_casillas.py` y con el entorno virtual activado. Luego, ejecuta:
 
 ```bash
 python unir_casillas.py
