@@ -9,23 +9,23 @@ Para mantener el entorno de trabajo limpio y ordenado, primero crearemos un ento
 Paso 1: Crear un Entorno Virtual
 
 En la terminal, navega hasta la carpeta del proyecto y ejecuta el siguiente comando para crear un entorno virtual llamado venv:
-
+```
 python3 -m venv venv
+```
 
 Esto generará una carpeta llamada venv dentro del proyecto, donde se instalarán las dependencias necesarias.
 
 Paso 2: Activar el Entorno Virtual
 
 	•	En Windows:
-
+```
 venv\Scripts\activate
-
+```
 
 	•	En macOS y Linux:
-
+```
 source venv/bin/activate
-
-
+```
 
 Verás que el entorno virtual está activado cuando el nombre (venv) aparezca al inicio de la línea en tu terminal.
 
