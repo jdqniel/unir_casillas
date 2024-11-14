@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 - `problema3/data/`: Carpeta de entrada donde deben colocarse los archivos `.xlsx` que serán procesados.
 - `problema3/output/`: Carpeta de salida donde se guardarán los archivos procesados en formato `.xlsx`.
-- `script.py`: Archivo que contiene el script Python con el procesamiento.
+- `unir_casillas.py`: Archivo que contiene el script Python con el procesamiento.
 - `requirements.txt`: Archivo con la lista de dependencias necesarias.
 
 ## Funcionamiento del Script
